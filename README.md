@@ -1,3 +1,9 @@
+Group 8
+1.	Abdirahman Ahmed		 -672903
+2.	Festo Wafula			 -671113
+3.	Abdulhlaim Mohamed Abeid -673465
+4.	Rahma Mohamed 		 -673598
+5.	Margaret Muyeba		 -673221
 # 🎮 Rock-Paper-Scissors Game
 
 A fun, interactive command-line implementation of the classic Rock-Paper-Scissors game built with Python.
