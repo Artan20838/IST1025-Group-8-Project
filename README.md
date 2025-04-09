@@ -53,14 +53,5 @@ This project transforms the traditional Rock-Paper-Scissors game into an engagin
 - Difficulty levels for the computer player
 - Statistics visualization
 
-## 👥 Contributors
-
-- Rahma Mohamed
-- Abdirahman Ahmed
-- Margaret Muyeba
-- Festo Wafula
-- Abdulhalim Mohamed Abeid
-
-## 📜 License
-
+#License 
 This project is open-source. This means anyone can contribute to the project.
